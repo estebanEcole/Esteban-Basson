@@ -8,5 +8,5 @@ EquipeMoto::EquipeMoto(std::string nom, std::string nomManager) {
 
 EquipeMoto::~EquipeMoto() {
     cout << "--> ~EuquipeMoto() de " << this << endl;
-    
+
 }
