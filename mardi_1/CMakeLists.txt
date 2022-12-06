@@ -3,4 +3,4 @@ project(mardi_1)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(mardi_1 main.cpp)
+add_executable(mardi_1 main.cpp Point.cpp Point.h)
