@@ -3,4 +3,4 @@ project(lundi_3)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(lundi_3 main.cpp)
+add_executable(lundi_3 MyArrayTemplate.cpp MyArrayInt.cpp)

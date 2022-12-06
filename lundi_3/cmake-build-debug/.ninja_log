@@ -1,0 +1,6 @@
+# ninja log v5
+9	693	6920198926941783	CMakeFiles/lundi_3.dir/MyArrayInt.cpp.obj	459731f4988f30de
+4	1547	6920198935495358	CMakeFiles/lundi_3.dir/MyArrayTemplate.cpp.obj	9f58c7a00611893c
+3	377	6920199060166388	CMakeFiles/lundi_3.dir/main.cpp.obj	ab0b11b7a944b232
+1	131	6920199464726475	build.ninja	887a6b35677933ac
+3	72	6920199465966179	lundi_3.exe	8e7cea4eb9082d13
